@@ -1,6 +1,6 @@
 # Hamming-Codes
 ## Based on 3Blue1Brown's video
-https://www.youtube.com/watch?v=X8jsijhllIA&list=WL&index=53&t=0s&ab_channel=3Blue1Brown
+[Hamming codes, h■w to ov■rco■e n■ise.](https://www.youtube.com/watch?v=X8jsijhllIA&list=WL&index=53&t=0s&ab_channel=3Blue1Brown)
 ```
 usage: hamming_codes.py [-h] [--h ham] [--m message]
 
